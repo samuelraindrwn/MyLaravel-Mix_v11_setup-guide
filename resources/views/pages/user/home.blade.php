@@ -19,7 +19,9 @@ Bagian ini akan menggantikan @ yield('content') yang ada di template `main`.
 
 <body id="home">
     @include('templates/header')
-    Hellow World
+    @if(isset($greeting))
+    <h1>{{ $greeting }}</h1>
+    @endif
     @include('templates/footer')
 </body>
 

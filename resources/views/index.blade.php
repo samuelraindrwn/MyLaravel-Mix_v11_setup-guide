@@ -17,9 +17,9 @@
         rel="stylesheet">
 
     {{-- Import custom css --}}
-    <link rel="stylesheet" href="{{ mix('css/app.min.css') }}">
+    <link rel="stylesheet" href="{{ mix('/css/app.min.css') }}">
     {{-- Import custom JS --}}
-    <script src="{{ mix('js/app.min.js') }}"></script>
+    <script src="{{ mix('/js/app.min.js') }}"></script>
 
     @yield('title')
 </head>

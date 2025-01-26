@@ -9,6 +9,6 @@ abstract class Controller
     public function showGreeting()
     {
         $greeting = MyFunctions::greet('Samuel Rai');
-        return $greeting; 
+        return view('pages.user.home', ['greeting' => $greeting]);
     }
 }
