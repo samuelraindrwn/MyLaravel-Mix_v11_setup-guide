@@ -4,7 +4,7 @@ Welcome to your **Laravel Mix** setup! This guide walks you through creating a L
 This guide is a custom setup I created for my Laravel projects. Feel free to use it as a reference or as a base setup for your own projects. Let's build something awesome! Let's get started! 😎
 
 ---
-
+ 
 ## 🛠️ Prerequisites
 
 Before diving in, make sure you have the following installed:
