@@ -13,7 +13,7 @@ Before diving in, make sure you have the following installed:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - [Composer](https://getcomposer.org/)
 - [PHP](https://www.php.net/)
-
+ 
 ---
 
 ## 🐘 What is Laravel?
