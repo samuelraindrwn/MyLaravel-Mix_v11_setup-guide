@@ -5,7 +5,7 @@ This guide is a custom setup I created for my Laravel projects. Feel free to use
  
 ---  
   
-## 🛠️ Prerequisites
+## 🛠️ Prerequisites 
 
 Before diving in, make sure you have the following installed: 
 
