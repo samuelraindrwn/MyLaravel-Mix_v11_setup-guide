@@ -6,7 +6,7 @@ This guide is a custom setup I created for my Laravel projects. Feel free to use
 ---  
   
 ## 🛠️ Prerequisites 
-
+ 
 Before diving in, make sure you have the following installed: 
 
 - [Node.js](https://nodejs.org/) (Latest LTS version recommended)
